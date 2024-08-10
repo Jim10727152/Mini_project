@@ -3,4 +3,4 @@
 
 This is Jim, welcome !
 
-See the README.pdf
+See the Readme.pdf
